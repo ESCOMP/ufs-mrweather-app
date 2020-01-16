@@ -25,10 +25,10 @@ This is the procedure for quickly setting up and running a case of UFS Medium-Ra
     ./query_config --help
 
 
-See the `supported component sets <ADD_LINK>`_,
-`supported model resolutions <ADD_LINK>`_ and `supported
-machines <ADD_LINK>`_ for a complete list of UFS Medium-Range Weather Application
-supported component sets, grids and computational platforms.
+See the `supported component sets <https://ufs-mrapp.readthedocs.io/en/latest/quickstart/configurations.html#supported-component-sets>`_,
+`supported model resolutions <https://ufs-mrapp.readthedocs.io/en/latest/quickstart/configurations.html#supported-grids>`_ and `supported
+machines <https://ufs-mrapp.readthedocs.io/en/latest/quickstart/configurations.html#supported-platforms-and-compilers>`_ for a complete 
+list of UFS Medium-Range Weather Application supported component sets, grids and computational platforms.
 
 .. note::
 
